@@ -5,7 +5,7 @@ import ollama  # Import the ollama library directly
 
 
 #  Add your keys here
-TELEGRAM_TOKEN = '8300310340:AAHX1hVfEG-U5P1CE0AjGMItpGZXwWWcNeI'
+TELEGRAM_TOKEN = ''
 
 OLLAMA_MODEL = "mistral"  # Default model that works for most cases
 
